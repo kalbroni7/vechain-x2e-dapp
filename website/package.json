@@ -21,7 +21,7 @@
     "@vechain/ethers": "^4.0.27-5",
     "@vechain/web3-providers-connex": "^1.1.2",
     "axios": "^1.6.3",
-    "ethers": "^6",
+    "ethers": "^6.12.1",
     "next": "^13",
     "next-auth": "^4.24.5",
     "nextjs-progressbar": "^0.0.16",
